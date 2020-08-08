@@ -1,26 +1,15 @@
 * [Home](home.md)
+
 - Linux
 
   - [Basic Commands](/linux/apace_vhost.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Install & Config NGINX](/linux/install_and_config_nginx.md)
+    - [Managing NGINX processes](/linux/install_and_config_nginx?id=step-3-managing-the-nginx-process)
+    - [Setting NGINX server blocks](/linux/install_and_config_nginx?id=step-4-setting-up-server-blocks-recommended)
+  - [Secure NGINX with Let's Encrypt SSL](/linux/nginx_and_lets_encrypt.md)
+  
 
-- Customization
+- Final Cut Pro
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [Shortcuts](/fcp/shortcuts.md)
+  
