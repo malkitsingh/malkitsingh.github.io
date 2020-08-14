@@ -30,3 +30,6 @@ To test the renewal process, you can do a dry run with `certbot`:
     
     sudo certbot renew --dry-run
 
+
+
+https://gist.github.com/hypervtechnics/9cb28e67aea93cb9b87af5141bc3aa25
