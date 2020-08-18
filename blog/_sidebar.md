@@ -1,8 +1,11 @@
 * [Home](home.md)
 
+- Git
+  - [Handy](/git/basic.md)
+
 - Linux
 
-  - [Basic Commands](/linux/apace_vhost.md)
+  - [Apache Virtual Hosts](/linux/apace_vhost.md)
   - [Install & Config NGINX](/linux/install_and_config_nginx.md)
     - [Managing NGINX processes](/linux/install_and_config_nginx?id=step-3-managing-the-nginx-process)
     - [Setting NGINX server blocks](/linux/install_and_config_nginx?id=step-4-setting-up-server-blocks-recommended)
