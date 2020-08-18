@@ -79,7 +79,7 @@ Paste in the following configuration block, which is similar to the default, but
         location / {
                 try_files $uri $uri/ =404;
         }
-}
+    }
 
 Next, let’s enable the file by creating a link from it to the sites-enabled directory, which Nginx reads from during startup:
 
