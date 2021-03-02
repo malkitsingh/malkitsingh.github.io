@@ -14,7 +14,10 @@
   - [Node.Js On NGINX reverse proxy](/linux/node_app_nginx_reverse_proxy.md)
   - [Dockers on Ubuntu](/linux/docker_on_ubuntu.md)
     - [Redis on Docker](/linux/redis_on_docker.md)
-  
+
+- Mongo DB
+  - [Install MongoDb on Amazon Linux2](/mongodb/install_mongodb_amazon_linux.md)
+  - [Creating DB users](/mongodb/creating_db_users.md)  
 
 - Final Cut Pro
 
