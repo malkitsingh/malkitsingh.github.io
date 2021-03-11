@@ -1,5 +1,8 @@
 * [Home](home.md)
 
+- AWS
+  - [Config & Install CLI](/aws/install_and_config_cli.md)
+
 - Git
   - [Handy](/git/basic.md)
 
