@@ -3,6 +3,8 @@
 - AWS
   - [Config & Install CLI](/aws/install_and_config_cli.md)
 
+- Dev Tools
+  - [VS Code Extensions](/devtools/vs_code_extensions.md)
 - Docker
   - [Cheat sheet](/docker/home.md)
 
