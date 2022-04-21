@@ -11,6 +11,10 @@
 - Git
   - [Handy](/git/basic.md)
 
+- JS
+  - [Destructuring](/js/destructuring.md)
+
+
 - Linux
 
   - [Apache Virtual Hosts](/linux/apace_vhost.md)
