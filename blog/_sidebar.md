@@ -31,6 +31,10 @@
   - [Install MongoDb on Amazon Linux2](/mongodb/install_mongodb_amazon_linux.md)
   - [Creating DB users](/mongodb/creating_db_users.md)  
 
+- Python
+  - [Using pyenv](/python/using_pyenv.md)
+  
+
 - Final Cut Pro
 
   - [Shortcuts](/fcp/shortcuts.md)
