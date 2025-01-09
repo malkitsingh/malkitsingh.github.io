@@ -1,59 +1,76 @@
+# Managing and Installing Multiple Python Versions Using `pyenv`
 
+## 1. Install `pyenv`
 
-# To manage and install multiple Python versions
+### 1.1 Update Your System
 
-Using `pyenv`
+```bash
+sudo apt update && sudo apt upgrade -y
+```
 
-1. Install `pyenv`
+### 1.2 Install Dependencies
 
-1.1 Update your system
-    
-    sudo apt update && sudo apt upgrade -y
+```bash
+sudo apt install -y build-essential libssl-dev zlib1g-dev \
+libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+libncurses5-dev libncursesw5-dev xz-utils tk-dev \
+libffi-dev liblzma-dev python3-openssl git
+```
 
-1.2 Install dependencies
+### 1.3 Clone the `pyenv` Repository
 
-    sudo apt install -y build-essential libssl-dev zlib1g-dev \
-    libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
-    libncurses5-dev libncursesw5-dev xz-utils tk-dev \
-    libffi-dev liblzma-dev python3-openssl git
+```bash
+curl https://pyenv.run | bash
+```
 
-1.3 Clone the `pyenv` repository:
+### 1.4 Update Shell Configuration
 
-    curl https://pyenv.run | bash
+Add the following lines to your shell configuration file (e.g., `.bashrc`, `.zshrc`, or `.bash_profile`):
 
-1.4 Update your shell configuration (e.g., .bashrc, .zshrc, or .bash_profile) by adding
-
-    export PATH="$HOME/.pyenv/bin:$PATH"
-    eval "$(pyenv init --path)"
-    eval "$(pyenv virtualenv-init -)"
+```bash
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv virtualenv-init -)"
+```
 
 Reload your shell:
 
-    source ~/.bashrc
+```bash
+source ~/.bashrc
+```
 
+---
 
-2. Install Python Versions
+## 2. Install Python Versions
 
-2.1 List available versions:
+### 2.1 List Available Versions
 
-    pyenv install --list
+```bash
+pyenv install --list
+```
 
-2.2 Install a specific version:
+### 2.2 Install a Specific Version
 
-    pyenv install 3.x.x
-    pyenv install 2.x.x
+```bash
+pyenv install 3.x.x
+pyenv install 2.x.x
+```
 
-2.3 Set a global version (default):
+### 2.3 Set a Global Version (Default)
 
-    pyenv global 3.x.x
+```bash
+pyenv global 3.x.x
+```
 
-2.4 Use a specific version locally (for a project directory)
+### 2.4 Use a Specific Version Locally (for a Project Directory)
 
-    pyenv local 3.x.x
+```bash
+pyenv local 3.x.x
+```
 
-3. Verify Installation
+---
 
-    python --version
+## 3. Verify Installation
 
-
-
+```bash
+python --version
