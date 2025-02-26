@@ -33,6 +33,7 @@
 
 - Python
   - [Using pyenv](/python/using_pyenv.md)
+  - [Data Structures](/python/ds.md)
   
 
 - Final Cut Pro
