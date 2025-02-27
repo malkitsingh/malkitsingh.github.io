@@ -7,6 +7,7 @@
   - [VS Code Extensions](/devtools/vs_code_extensions.md)
 - Docker
   - [Cheat sheet](/docker/home.md)
+  - [Docker Compose](/docker/docker_compose.md)
 
 - Git
   - [Handy](/git/basic.md)
