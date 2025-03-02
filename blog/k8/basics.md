@@ -79,3 +79,7 @@ _Diagram Explanation:_
 - **Rolling Updates & Rollbacks**: Deployments allow updating applications with zero downtime and rollback if something goes wrong.
 - **Helm**: A package manager for Kubernetes that helps manage complex applications using charts (pre-configured Kubernetes resources).
 - **Monitoring** : Prometheus + Grafana.
+
+Here's an easy and interesting video explaining about all these concepts
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=X48VuDVv0do" frameborder="0" allowfullscreen></iframe>
