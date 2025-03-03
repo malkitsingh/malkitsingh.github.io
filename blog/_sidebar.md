@@ -45,6 +45,10 @@
 - Python
   - [Using pyenv](/python/using_pyenv.md)
   - [Data Structures](/python/ds.md)
+
+- Patterns and Principles
+  - [SOLID](/p_and_p/solid.md)
+
   
 
 
