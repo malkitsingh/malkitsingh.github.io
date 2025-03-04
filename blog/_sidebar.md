@@ -8,6 +8,7 @@
 - Docker
   - [Cheat sheet](/docker/home.md)
   - [Docker Compose](/docker/docker_compose.md)
+  - [Restart Policies](/docker/restart_policies.md)
 
 - Final Cut Pro
 
