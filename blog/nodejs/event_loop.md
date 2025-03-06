@@ -77,3 +77,11 @@ Non-deterministic! If run in the main module, it depends on how quickly the time
 - `Timers` are not guaranteed to run at exact times (minimum delay only).
 
 - Use `setImmediate` for code that should run after I/O, and `process.nextTick` for high-priority tasks.
+
+Here are some interesting videos explaining about all these concepts
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eiC58R16hb8" frameborder="0" allowfullscreen></iframe>
+
+and here is another one.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=okkHnAo8GmE" frameborder="0" allowfullscreen></iframe>
