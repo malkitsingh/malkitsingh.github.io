@@ -51,6 +51,7 @@
 
 - Patterns and Principles
   - [SOLID](/p_and_p/solid.md)
+  - [Declarative vs Imperative](/p_and_p/declarative_imperative.md)
 
   
 
