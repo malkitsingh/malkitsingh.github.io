@@ -19,6 +19,7 @@
 
 - JS
   - [CJS vs ES Modules](/js/cjs_em.md)
+  - [Closures](/js/closures.md)
   - [Destructuring](/js/destructuring.md)
 
 - Kubernetes

@@ -62,4 +62,4 @@ console.log(evens); // Output: [2, 4]
 
 Nicely done video explanation
 
-<iframe src="https://www.youtube.com/watch?v=dYqwdwTsZVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYqwdwTsZVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -80,8 +80,8 @@ Non-deterministic! If run in the main module, it depends on how quickly the time
 
 Here are some interesting videos explaining about all these concepts
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eiC58R16hb8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okkHnAo8GmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 and here is another one.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=okkHnAo8GmE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okkHnAo8GmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
