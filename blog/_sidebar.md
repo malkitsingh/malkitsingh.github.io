@@ -21,6 +21,7 @@
   - [CJS vs ES Modules](/js/cjs_em.md)
   - [Closures](/js/closures.md)
   - [Destructuring](/js/destructuring.md)
+  - [Map, Filter, Reduce](/js/mfr.md)
 
 - Kubernetes
   - [basics](/k8/basics.md)
