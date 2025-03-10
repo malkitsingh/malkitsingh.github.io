@@ -22,6 +22,7 @@
   - [Closures](/js/closures.md)
   - [Destructuring](/js/destructuring.md)
   - [Map, Filter, Reduce](/js/mfr.md)
+  - [Proto & Prototype](/js/p_p.md)
 
 - Kubernetes
   - [basics](/k8/basics.md)
