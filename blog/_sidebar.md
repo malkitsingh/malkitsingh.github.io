@@ -2,6 +2,8 @@
 
 - AWS
   - [Config & Install CLI](/aws/install_and_config_cli.md)
+  - [YAML Anchors & Aliases in SAM](/aws/anchors_in_sam.md)
+  
 
 - Dev Tools
   - [VS Code Extensions](/devtools/vs_code_extensions.md)
