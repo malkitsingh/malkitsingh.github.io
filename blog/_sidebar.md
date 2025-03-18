@@ -58,6 +58,9 @@
   - [SOLID](/p_and_p/solid.md)
   - [Declarative vs Imperative](/p_and_p/declarative_imperative.md)
 
+- Typescript
+  - [Generic Types](/typescript/generic_types.md)
+
   
 
 
